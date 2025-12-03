@@ -117,6 +117,4 @@ Busco constantemente aprimorar minhas habilidades nas áreas de software, qualid
 
 ---
 
-<div align="center">
-  <b>⭐ Se gostou do meu perfil, considere deixar uma estrela nos repositórios!</b>
-</div>
+
