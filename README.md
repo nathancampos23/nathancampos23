@@ -1,128 +1,122 @@
-# 👩🏻‍💻  Nathan Simões Campos
+<h1 align="center">👨‍💻 Nathan Simões Campos</h1>
 
-Sou Nathan Simões Campos, profissional em formação na área de Tecnologia da Informação, com foco em desenvolvimento de software e garantia da qualidade. Concluí o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Tecnologia em Sistemas de Informação na Univille. Tenho experiência acadêmica e prática em Java, testes de software, gestão de defeitos e acessibilidade digital, com interesse em processos de melhoria contínua e documentação técnica voltada à qualidade e usabilidade de sistemas. Busco constantemente aprimorar minhas habilidades por meio de projetos práticos, estudos aplicados e participação em iniciativas ligadas à inovação e tecnologia, como as realizadas no Ágora Tech Park. Estou sempre aberto a colaborações, networking e oportunidades de aprendizado na área de tecnologia.
-
+<p align="center">
+  Estudante de Tecnologia da Informação e futuro Engenheiro de Software, com foco em desenvolvimento, qualidade, testes e melhoria contínua.
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🧑‍🎓 Sobre Mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Sou Nathan Simões Campos, profissional em formação na área de Tecnologia da Informação, com experiência em desenvolvimento de software, testes, gestão de defeitos, acessibilidade digital e documentação técnica.  
 
-<br/>
-<br/>
+Concluí o Ensino Médio integrado ao curso técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Tecnologia em Sistemas de Informação na Univille.
 
-  />
+Participo ativamente de iniciativas ligadas à inovação e tecnologia, como visitas técnicas, projetos práticos e atividades promovidas pelo Ágora Tech Park.
 
+Busco constantemente aprimorar minhas habilidades nas áreas de software, qualidade, arquitetura e engenharia, sempre aberto a novas oportunidades, conhecimentos e desafios profissionais.
+
+---
+
+## 🚀 Minhas Competências
+
+### 🧠 **Fundamentos de Engenharia de Software**
+- Engenharia de Requisitos  
+- Modelagem UML  
+- Ciclo de Vida de Software  
+- Metodologias Ágeis (Scrum & Kanban)  
+- Documentação técnica e baseline  
+
+### 🧪 **Testes & Qualidade de Software**
+- Testes Unitários (JUnit, Jest)  
+- Testes funcionais e exploratórios  
+- Automação de testes  
+- Gestão de defeitos e análise de causa raiz  
+- Acessibilidade digital (WCAG, boas práticas)  
+
+### 🏗️ **Arquitetura & Boas Práticas**
+- Clean Code e Clean Architecture  
+- DDD – Domain Driven Design  
+- Arquitetura Hexagonal  
+- Microserviços  
+- API Gateway & Service Discovery  
+- Versionamento e ambientes (.env)  
+
+### 💻 **Desenvolvimento**
+#### **Frontend**
+- HTML, CSS, JavaScript  
+- React / Next.js  
+- Bootstrap / TailwindCSS  
+
+#### **Backend**
+- Java  
+- PHP  
+- Node.js  
+- Python  
+
+#### **Banco de Dados**
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Modelagem de dados  
+
+### ⚙️ **DevOps, Automação e Rotina Técnica**
+- Git & GitHub  
+- GitHub Actions (CI/CD básico)  
+- Docker  
+- Linux e terminal  
+- Deploy de aplicações  
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 </p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nathancampos23&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancampos23&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🧩 Projetos em Destaque
+
+🔹 **Sistema de Gestão de Defeitos (Java + Documentação)**  
+🔹 **Testes de Acessibilidade**  
+🔹 **E-commerce – Seção de Tênis (Trabalho Final)**  
+🔹 **APIs REST utilizando boas práticas**  
+🔹 **Automação de testes com JUnit/Jest**
+
+---
+
+## 📬 Contato
+
+- 📧 Email: **nasmontag@gmail.com**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/nathan-campos-528ab5300/**  
+- 🐙 GitHub: https://github.com/nathancampos23  
+
+---
+
+<div align="center">
+  <b>⭐ Se gostou do meu perfil, considere deixar uma estrela nos repositórios!</b>
+</div>
